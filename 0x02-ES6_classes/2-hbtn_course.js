@@ -49,4 +49,4 @@ class ALXCourse {
   }
 }
 
-export default HolbertonCourse;
+export default ALXCourse;
